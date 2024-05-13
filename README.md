@@ -1,6 +1,6 @@
 # Cấu Hình Docker Compose Cho Apache Kafka
 
-Kho lưu trữ này chứa một tệp Docker Compose để triển khai Apache Kafka sử dụng hình ảnh Kafka của Bitnami. 
+Kho lưu trữ này chứa một tệp Docker Compose để triển khai Apache Kafka sử dụng Kafka image của Bitnami. 
 ## Yêu Cầu
 - Docker 19.03.0+
 - Docker Compose 1.27.0+
